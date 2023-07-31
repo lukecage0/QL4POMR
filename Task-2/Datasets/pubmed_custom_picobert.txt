@@ -1,0 +1,71 @@
+###27932540:
+OBJECTIVE|A|on a reduction in the incidence of childhood obesity .
+PARTICIPANTS|P|In school-age children .
+INTERVENTIONS|I|what is the effect of a school-based physical activity program .
+INTERVENTION AND COMPARISON|I|compared with no intervention .
+
+###27932541:
+OBJECTIVE|A|on a reduction in reported incidences of bullying .
+PARTICIPANTS|P|In high school children .
+INTERVENTIONS|I|what is the effect of a nurse-led presentation on bullying .
+INTERVENTION AND COMPARISON|I|ccompared with no intervention .
+
+###27932542:
+OBJECTIVE|A|at an increased risk of developing esophageal cancer .
+PARTICIPANTS|P|compared with males age @ and older .
+INTERVENTIONS|I|who have a history of @ year of smoking or less .
+INTERVENTION AND COMPARISON|I|who have no smoking history .
+
+###27932543:
+OBJECTIVE|A|at greater risk for developing blood clots .
+PARTICIPANTS|P|Are women ages @-@ .
+INTERVENTIONS|I|who take oral contraceptives .
+INTERVENTION AND COMPARISON|I|who use IUDs for contraception .
+
+###27932544:
+OBJECTIVE|A|more effective in detecting breast cancer .
+PARTICIPANTS|P|in women under age @ .
+INTERVENTIONS|I|Is a yearly mammogram .
+INTERVENTION AND COMPARISON|I|compared with a mammogram every @ years .
+
+###27932545:
+OBJECTIVE|A|in adults over age @ .
+PARTICIPANTS|P|In school-age children .
+INTERVENTIONS|I|Is a colonoscopy combined with fecal occult blood testing .
+INTERVENTION AND COMPARISON|I|compared with a colonoscopy alone .
+
+###27932546:
+OBJECTIVE|A|reduce the future risk of stroke .
+PARTICIPANTS|P|For women under age @ .
+INTERVENTIONS|I|does the daily use of @ mg low-dose Aspirin .
+INTERVENTION AND COMPARISON|I|compared with no usage of low-dose Aspirin .
+
+###27932546:
+OBJECTIVE|A|reduce the future risk of heart attack .
+PARTICIPANTS|P|For adults over age @ .
+INTERVENTIONS|I|does a daily @ minute exercise regimen .
+INTERVENTION AND COMPARISON|I|compared with no exercise regimen .
+
+###27932546:
+OBJECTIVE|A|influence compliance with medication regimens for hypertension .
+PARTICIPANTS|P|in adults over age @ who have hypertension .
+INTERVENTIONS|I|Does daily home blood pressure monitoring .
+INTERVENTION AND COMPARISON|I|compared with no intervention .
+
+###27932546:
+OBJECTIVE|A|improve blood glucose control .
+PARTICIPANTS|P|in people with Type @ diabetes .
+INTERVENTIONS|I|Does monitoring blood glucose @ times a day .
+INTERVENTION AND COMPARISON|I|compared with no intervention .
+
+###27932546:
+OBJECTIVE|A|perceive chemotherapy and radiation treatments .
+PARTICIPANTS|P|How do teenagers .
+INTERVENTIONS|I|diagnosed with cancer .
+INTERVENTION AND COMPARISON|I|compared with no intervention .
+
+###27932546:
+OBJECTIVE|A|perceive bonding with their infant .
+PARTICIPANTS|P|How do first-time mothers .
+INTERVENTIONS|I|of premature babies in the NICU .
+INTERVENTION AND COMPARISON|I|compared with no intervention .

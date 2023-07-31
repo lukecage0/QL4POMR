@@ -1,0 +1,110 @@
+###15705691:
+OBJECTIVE|A|To assess the effect of a school-based physical activity program on the reduction of the incidence of childhood obesity in school-age children within a 1 year period.
+DESIGN|M|Randomised controlled trial.
+SETTING|M|Various schools in the city.
+PARTICIPANTS|P|School-age children.
+INTERVENTION|I|Implementation of a school-based physical activity program.
+COMPARATOR|C|No intervention.
+MAIN OUTCOME MEASURES|O|Incidence of childhood obesity.
+TIMELINE|T|1 year.
+
+###15705692:
+OBJECTIVE|A|To determine the effect of a nurse-led presentation on bullying on a reduction in reported incidences of bullying in high school children within a 6 month time frame.
+DESIGN|M|Randomised controlled trial.
+SETTING|M|Various high schools in the city.
+PARTICIPANTS|P|High school children.
+INTERVENTION|I|A nurse-led presentation on bullying.
+COMPARATOR|C|No intervention.
+MAIN OUTCOME MEASURES|O|Reported incidences of bullying.
+TIMELINE|T|6 months.
+
+###15705693:
+OBJECTIVE|A|To investigate whether males 50 years of age and older with a history of 1 year of smoking or less are at an increased risk of developing esophageal cancer compared with males age 50 and older who have no smoking history.
+DESIGN|M|Cohort study.
+SETTING|M|Community based study.
+PARTICIPANTS|P|Males 50 years of age and older.
+EXPOSURE|I|History of 1 year of smoking or less.
+COMPARATOR|C|Males age 50 and older with no smoking history.
+MAIN OUTCOME MEASURES|O|Incidence of esophageal cancer.
+
+###15705694:
+OBJECTIVE|A|To examine if women ages 25-40 who take oral contraceptives are at greater risk for developing blood clots compared with women ages 25-40 who use IUDs for contraception over a 5 year time frame.
+DESIGN|M|Cohort study.
+SETTING|M|Community based study.
+PARTICIPANTS|P|Women ages 25-40.
+EXPOSURE|I|Use of oral contraceptives.
+COMPARATOR|C|Use of IUDs for contraception.
+MAIN OUTCOME MEASURES|O|Incidence of blood clots.
+TIMELINE|T|5 years.
+
+###15705695:
+OBJECTIVE|A|To determine if a yearly mammogram is more effective in detecting breast cancer compared with a mammogram every 3 years in women under age 50.
+DESIGN|M|Randomized controlled trial.
+SETTING|M|Hospital-based study.
+PARTICIPANTS|P|Women under age 50.
+INTERVENTION|I|Yearly mammogram.
+COMPARATOR|C|Mammogram every 3 years.
+MAIN OUTCOME MEASURES|O|Detection of breast cancer.
+
+###15705696:
+OBJECTIVE|A|To assess if a colonoscopy combined with fecal occult blood testing is more accurate in detecting colon cancer compared with a colonoscopy alone in adults over age 50.
+DESIGN|M|Randomized controlled trial.
+SETTING|M|Hospital-based study.
+PARTICIPANTS|P|Adults over age 50.
+INTERVENTION|I|Colonoscopy combined with fecal occult blood testing.
+COMPARATOR|C|Colonoscopy alone.
+MAIN OUTCOME MEASURES|O|Detection of colon cancer.
+
+###15705697:
+OBJECTIVE|A|To evaluate if the daily use of 81mg low-dose Aspirin reduces the future risk of stroke compared with no usage of low-dose Aspirin for women under age 60.
+DESIGN|M|Randomized controlled trial.
+SETTING|M|Community-based study.
+PARTICIPANTS|P|Women under age 60.
+INTERVENTION|I|Daily use of 81mg low-dose Aspirin.
+COMPARATOR|C|No usage of low-dose Aspirin.
+MAIN OUTCOME MEASURES|O|Future risk of stroke.
+
+###15705698:
+OBJECTIVE|A|To determine if a daily 30-minute exercise regimen reduces the future risk of heart attack compared with no exercise regimen for adults over age 65.
+DESIGN|M|Randomized controlled trial.
+SETTING|M|Community-based study.
+PARTICIPANTS|P|Adults over age 65.
+INTERVENTION|I|Daily 30-minute exercise regimen.
+COMPARATOR|C|No exercise regimen.
+MAIN OUTCOME MEASURES|O|Future risk of heart attack.
+
+###15705699:
+OBJECTIVE|A|To evaluate if daily home blood pressure monitoring influences compliance with medication regimens for hypertension in adults over age 60 who have hypertension during the first year after being diagnosed with the condition.
+DESIGN|M|Longitudinal study.
+SETTING|M|Community-based study.
+PARTICIPANTS|P|Adults over age 60 with hypertension.
+INTERVENTION|I|Daily home blood pressure monitoring.
+MAIN OUTCOME MEASURES|O|Compliance with medication regimens for hypertension.
+TIMELINE|T|First year after being diagnosed with the condition.
+
+###15705700:
+OBJECTIVE|A|To assess if monitoring blood glucose 4 times a day improves blood glucose control in people with Type 1 diabetes during the first six months after being diagnosed with the condition.
+DESIGN|M|Randomized controlled trial.
+SETTING|M|Hospital-based study.
+PARTICIPANTS|P|People with Type 1 diabetes.
+INTERVENTION|I|Monitoring blood glucose 4 times a day.
+MAIN OUTCOME MEASURES|O|Blood glucose control.
+TIMELINE|T|First six months after being diagnosed with the condition.
+
+###15705701:
+OBJECTIVE|A|To understand how teenagers diagnosed with cancer perceive chemotherapy and radiation treatments during the first 6 months after diagnosis.
+DESIGN|M|Qualitative study.
+SETTING|M|Hospital-based study.
+PARTICIPANTS|P|Teenagers diagnosed with cancer.
+EXPERIENCE|I|Chemotherapy and radiation treatments.
+MAIN OUTCOME MEASURES|O|Perceptions of chemotherapy and radiation treatments.
+TIMELINE|T|First 6 months after diagnosis.
+
+###15705702:
+OBJECTIVE|A|To explore how first-time mothers of premature babies in the NICU perceive bonding with their infant during the first month after birth.
+DESIGN|M|Qualitative study.
+SETTING|M|Hospital-based study.
+PARTICIPANTS|P|First-time mothers of premature babies in the NICU.
+EXPERIENCE|I|Bonding with their infant.
+MAIN OUTCOME MEASURES|O|Perceptions of bonding with their infant.
+TIMELINE|T|First month after birth.
